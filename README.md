@@ -3,7 +3,7 @@ Data processing was carried out — visualization and reduction of emissions, re
 Visualized the number of housing of various types and the location of housing, broken down by districts, on the map, which allows you to compare the number of apartments of this type in one and another area, and draw conclusions where it is cheaper to rent an apartment at the desired distance from the center.
 
 # Dataset
-* [Информация о наборе данных:] (http://insideairbnb.com/get-the-data.html) \
+* [Информация о наборе данных:](http://insideairbnb.com/get-the-data.html) \
 \
 The dataset contains the following attributes: \
  \
